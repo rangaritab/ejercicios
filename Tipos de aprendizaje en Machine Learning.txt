@@ -1,0 +1,31 @@
+Tipos de aprendizaje Machine Learning
+
+Aprendizaje supervisado (Supervised machine learning)
+En los algoritmos de aprendizaje supervisado se genera un modelo predictivo, basado en datos de entrada y salida. La palabra clave “supervisado” viene de la idea de tener un conjunto de datos previamente etiquetado y clasificado, es decir, tener un conjunto de muestra el cual ya se sabe a qué grupo, valor o categoría pertenecen los ejemplos. Con este grupo de datos, el cual llamamos datos de entrenamiento, se realiza el ajuste al modelo inicial planteado. De esta forma es como el algoritmo va “aprendiendo” a clasificar las muestras de entrada comparando el resultado del modelo, y la etiqueta real de la muestra, realizando las compensaciones respectivas al modelo de acuerdo a cada error en la estimación del resultado. Por ejemplo, el aprendizaje supervisado ha sido utilizado para la programación de vehículos autónomos. Algunos métodos y algoritmos que podemos implementar son los siguientes:
+
+K vecinos más próximos (K-nearest neighbors)
+Redes neuronales artificiales (Artificial neural networks)
+Máquinas de vectores de soporte (Support vector machines)
+Clasificador Bayesiano ingenuo (Naïve Bayes classifier)
+Árboles de decisión (Decision trees)
+Regresión logística (Logistic regression)
+
+Aprendizaje no supervisado (Unsupervised machine learning)
+Los algoritmos de aprendizaje no supervisado trabajan de forma muy similar a los supervisados, con la diferencia de que éstos solo ajustan su modelo predictivo tomando en cuenta los datos de entrada, sin importar los de salida. Es decir, a diferencia del supervisado, los datos de entrada no están clasificados ni etiquetados, y no son necesarias estas características para entrenar el modelo. Dentro de este tipo de algoritmos, el agrupamiento o clustering en inglés, es el más utilizado, ya que particiona los datos en grupos que posean características similares entre sí. Una aplicación de estos métodos es la compresión de imágenes. Entre los principales algoritmos de tipo no supervisado destacan:
+
+K-medias (K-means)
+Mezcla de Gaussianas (Gaussian mixtures)
+Agrupamiento jerárquico (Hierarchical clustering)
+Mapas auto-organizados (Self-organizing maps)
+
+
+Aprendizaje por refuerzo (Reinforcement learning)
+Los algoritmos de aprendizaje por refuerzo definen modelos y funciones enfocadas en maximizar una medida de “recompensas”, basados en “acciones” y al ambiente en el que el agente inteligente se desempeñará. Este algoritmo es el más apegado a la psicología conductista de los humanos, ya que es un modelo acción-recompensa, que busca que el algoritmo se ajuste a la mejor “recompensa” dada por el ambiente, y sus acciones por tomar están sujetas a estas recompensas. Este tipo de métodos pueden usarse para hacer que los robots aprendan a realizar diferentes tareas. Entre los algoritmos más utilizados podemos nombrar:
+
+Programación dinámica (Dynamic programming)
+Q-learning
+SARSA
+
+Ningún enfoque es mejor que el otro, cada tipo de aprendizaje tiene sus ventajas y áreas de oportunidad. El reto está en saber determinar bien la naturaleza de nuestro problema al cuál queramos aplicarle algún algoritmo de ML, para así determinar cuál tipo de aprendizaje automático es el que mejor nos conviene.
+
+Fuente: https://medium.com/soldai/tipos-de-aprendizaje-autom%C3%A1tico-6413e3c615e2

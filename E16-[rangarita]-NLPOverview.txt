@@ -1,0 +1,45 @@
+# E16 - Natural Language Processing Overview
+
+Research for a commercial product which uses NLP as a core(E.g. google assistant) and describes, in general words, which NLP techniques it uses.
+
+(If two of you have the same commercial product, both of your grades will be penalized --- Be creative! )
+
+PRODUCTO: VERINT - Speech Analytics (Voice Of the Customer)
+
+DESCRIPCION DEL PRODUCTO COMERCIAL PARA CONTACT CENTER:
+
+Speech Analytics: Se trata de sistemas que permiten extraer información a partir del análisis de las conversaciones almacenadas en los sistemas de grabación. Se pueden dividir en dos tipos de análisis, el primero es el reconocimiento del habla, en el cual se transcribe la conversación a texto utilizando diversos sistemas de reconocimiento de voz. El segundo es el reconocimiento cualitativo, detectando las características del cliente que surgen de su forma de hablar por ejemplo: Estado emocional, edad, genero, idioma, acento, ambiente de ubicación, etc. Haciendo un análisis de todos estos factores que nos traen los tipo de análisis podemos sacar mucha información de nuestros clientes, como sus gustos, preocupaciones, fallas de nuestra campáñas o productos y a su vez estudiamos la gestión de nuestros operadores, como transmisten la campaña, como interactuan con los clientes, como fueron formados y si necesitan algún tipo de correción.
+
+Para ello se basa en diferentes herramientas:
+
+1.Reconocimiento del habla (detección del contenido de la llamada), en sus diferentes variantes: wordspotting, con detección de palabras, y Reconocimiento de Lenguaje Natural, con detección de conjuntos de palabras y frases.
+2.Reconocimiento de patrones sonoros, tales cómo: la edad, el género, el estado emocional de cada locutor, entorno desde donde se llama y red empleada y, por supuesto, idioma hablado (castellano, inglés, catalán, etc.)
+
+Toda esta información aporta una información muy completa de aquello que sucede en el audio analizado, sin embargo es conveniente enfocar el análisis para que esta información aporte un valor de negocio y no se convierta en un compendio de palabras o nube de palabras más dichas (habitualmente hola, adiós, etc. ).
+
+Transcribe y analiza millones de llamadas para descubrir las perspectivas de los clientes y mejorar el rendimiento del centro de contacto en la nube.
+
+Fuente wikipedia: https://es.wikipedia.org/wiki/Speech_analytics
+
+VERINT - Speech Analytics (Voice Of the Customer)
+
+New York Life redujo el volumen de llamadas en 400,000 llamadas al año, logró ahorros del 40% en todos los equipos de control de calidad (QA), mejoró la efectividad de las ventas con solo seis cifras.
+
+Inteligencia valiosa superficial de llamadas grabadas
+
+Nada puede decirle más sobre su negocio que analizar las llamadas de sus clientes. Satisfacción del cliente, rotación de clientes, inteligencia competitiva, problemas de servicio, rendimiento del agente y efectividad de la campaña. Pero el gran volumen de llamadas telefónicas excede la capacidad del centro de contacto para revisarlas y analizarlas manualmente. La revisión manual solo puede utilizar una fracción de las llamadas mediante un análisis poco sofisticado.
+
+Verint Speech Analytics puede transcribir y analizar el 100 por ciento de sus llamadas grabadas para ayudar a revelar inteligencia valiosa. La solución puede descubrir y analizar automáticamente palabras, frases, categorías y temas. Esto puede ayudarte a:
+
+1.Mejora el rendimiento del centro de contacto con información
+2.Descubre las percepciones de los clientes sobre satisfacción, problemas comerciales, inteligencia competitiva, campañas de marketing.
+3.Reduce la pérdida de clientes descubriendo la causa raíz y prediciendo clientes en riesgo.
+4.Mejore el control de calidad revisando muestras grandes y tipos de llamadas específicos.
+5.Proporciona coaching dirigido a los agentes por su desempeño relativo.
+
+Al combinar la solución con Verint Text Analytics, puede agregar información de canales basados ??en texto, como chat, correo electrónico y redes sociales para obtener una visión completa del cliente a través de voz y texto.
+
+Mejora el cumplimiento para el comercio financiero
+Verint también ofrece Verint Speech Analytics para operaciones financieras. Esta solución de monitoreo de comercio puede analizar el 100 por ciento de las llamadas de los comerciantes y revelar que contienen palabras o frases sospechosas.
+
+Fuente página del producto: https://www.verint.com/engagement/our-offerings/solutions/voice-of-the-customer/speech-analytics/
